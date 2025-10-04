@@ -2,20 +2,6 @@
 
 A comprehensive WordPress plugin designed for educational institutions to manage student attendance with separate interfaces for administrators and guardians.
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Shortcodes](#shortcodes)
-- [File Structure](#file-structure)
-- [Customization](#customization)
-- [Security](#security)
-- [Troubleshooting](#troubleshooting)
-
-
 ## 🎯 Overview
 
 Guardian Attendance is a WordPress plugin that provides a complete attendance management system for schools and educational institutions. It offers a dual-interface approach where administrators can mark attendance while guardians can view their child's attendance records through an intuitive calendar interface. **A Extended plugin associated with TutotLMS**
@@ -31,7 +17,7 @@ Guardian Attendance is a WordPress plugin that provides a complete attendance ma
 ## ✨ Features
 
 ### For Administrators
-
+![Administrators attendance initialize ](https://raw.githubusercontent.com/rayhan-hosen/wordpress-student-attendence-plugin-public/refs/heads/main/Admin.png)
 - **Easy Attendance Marking**: Simple form to mark student attendance
 - **Student ID Validation**: 8-digit student ID input with pattern validation
 - **Date Selection**: Flexible date picker for marking attendance
@@ -40,6 +26,7 @@ Guardian Attendance is a WordPress plugin that provides a complete attendance ma
 - **Admin Dashboard**: Dedicated WordPress admin menu
 
 ### For Guardians
+![Guardians student review ](https://raw.githubusercontent.com/rayhan-hosen/wordpress-student-attendence-plugin-public/refs/heads/main/Guardian.png)
 - **Calendar View**: Monthly calendar showing attendance status
 - **Month/Year Navigation**: Easy navigation between different months
 - **Visual Indicators**: Color-coded attendance status (Green for Present, Red for Absent)
